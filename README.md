@@ -1,6 +1,8 @@
 # Make the AI Judge Laugh: Office Jokes
 
-[![Competition](https://make.fun/bounties/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/badge.svg)](https://make.fun/bounties/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
+[![Competition](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
+[![Rank](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/ELVINO1806/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/rank.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/leaderboard)
+[![Reward](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/ELVINO1806/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/reward.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
 [![Rank](https://make.fun/bounties/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/ELVINO1806/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/rank.svg)](https://make.fun/bounties/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/leaderboard)
 [![Reward](https://make.fun/bounties/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/ELVINO1806/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/reward.svg)](https://make.fun/bounties/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
 
